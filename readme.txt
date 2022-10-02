@@ -1,1 +1,3 @@
 Ky eshte nje readme file
+
+Ne kete readme file duhen te jene te vendosura shenime te ndryshme...
